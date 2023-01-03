@@ -3,7 +3,7 @@ import { Booking } from './booking';
 export const Bookings: Booking[] = [
   {
     id: 1,
-    name: 'Horst Volk',
+    name: 'Herbert Valides',
     roomNumber: 100,
     startDate: new Date(),
     endDate: new Date('2022-12-31'),
@@ -24,7 +24,7 @@ export const Bookings: Booking[] = [
   },
   {
     id: 4,
-    name: 'Silke Maschmeyer',
+    name: 'Silke Masch',
     roomNumber: 103,
     startDate: new Date('2022-12-28'),
     endDate: new Date('2023-1-5'),
